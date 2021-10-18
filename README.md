@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my cooking skills**
 
-- 🌱 I’m currently learning **career planning**
+- 🌱 I’m currently learning **Cloud native**
 
 - 🤝 I’m looking for help with **career planning**
 
